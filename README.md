@@ -10,5 +10,8 @@
 ### After 
   ![image](https://github.com/engkoskostaman97/setup_install_kafka_from_windows/assets/110719940/f1a96556-9836-43b4-ba7c-fcfbd67e3a24)
 
+- open cmd windows in path directory kafka 
+
+
 
    
