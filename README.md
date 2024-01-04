@@ -14,6 +14,7 @@
   ![image](https://github.com/engkoskostaman97/setup_install_kafka_from_windows/assets/110719940/dc8d7c52-1f55-41f8-853f-9df494bdc2a2)
 
   next .\bin\windows\kafka-storage.bat random-uuid
+  
   next .\bin\windows\kafka-storage.bat format --cluster-id {uuid} --config\kraft\server.properties
 
 ## run start kafka 
